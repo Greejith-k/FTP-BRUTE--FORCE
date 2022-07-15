@@ -3,7 +3,7 @@ THIS IS GUI FTP CRACK TOOL
 
 
 
-STEP 1 : open terminal and get root user (sudo su)
+STEP 1 : OPEN TERMINAL SWITCH TO ROOT USER  (sudo su)
 
 STEP 3 : FIND THE BRUTE G TOOL FOLDER (/Downloads/FTP-Brute-foce-main)
 
